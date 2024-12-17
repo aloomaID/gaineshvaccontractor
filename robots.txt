@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://gaineshvaccontractor.pro/sitemap_index.xml
